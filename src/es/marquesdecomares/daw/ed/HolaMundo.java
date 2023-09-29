@@ -3,7 +3,7 @@ package es.marquesdecomares.daw.ed;
 public class HolaMundo {
 
 	public static void main(String[] args) {
-		System.out.println("HolaMundo");z
+		System.out.println("HolaMundo");
 	}
 
 }
